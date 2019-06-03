@@ -1,0 +1,80 @@
+@font-face {
+    font-family: Pompadur;
+    src: url(12343.ttf);
+}
+@font-face {
+    font-family: LO;
+    src: url(12489.ttf);
+}
+.kiddo{
+	height: 100px;
+}
+.kid{
+	height: 400px;
+	background-image: url(geek3.jpg);
+	width: 600px;
+	margin-top: 50px;
+	margin-left: 400px;
+}
+.kiddo2{
+	height:400px;
+	background-color: grey;
+}
+h2{
+	font-family: Pompadur;
+	font-size: 50px;
+	margin-left: 600px;
+}
+p{
+	font-family: LO;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 20px;	
+}
+.display{
+	display: flex;
+}
+.IMG{
+	height: 240px;
+	width: 200px;
+	margin-top: 30px;
+	margin-left: 200px;
+	margin-bottom: 20px;
+}
+.kiddo3{
+	height: 400px;
+	background-color: grey;
+}
+
+.kiddo4{
+	height: 670px;
+}
+}
+.IMG1{
+	height: 400px;
+	width: 300px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	margin-left: 100px;
+}
+.kiddo5{
+	background-color: grey;
+	height: 800px;
+}
+.IMG2{
+	height: 500px;
+	width: 400px;
+	margin-top: 30px;
+	margin-left: 200px;
+	margin-bottom: 20px;
+}
+h3{
+	font-family: Pompadur;
+	font-size: 25px;
+	margin-left: 800px;
+}
+.IMG4{
+	height: 50px;
+	width: 70px;
+	margin-top: 100px;
+}
